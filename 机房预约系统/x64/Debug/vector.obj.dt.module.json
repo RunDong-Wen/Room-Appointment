@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "机房预约系统\\x64\\Debug\\vector.obj",
+            "outputs": [
+                "机房预约系统\\x64\\Debug\\vector.obj.dt.module.json",
+                "机房预约系统\\x64\\Debug\\vector.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
